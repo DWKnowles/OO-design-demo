@@ -14,7 +14,7 @@ public class administrator {
     public survey.statistics getStats(){
 	return this.stats;
     }
-
+//test
     /* fields */
     private String[] questions;
     private survey.mutableStatistics stats;
